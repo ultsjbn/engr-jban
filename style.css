@@ -286,25 +286,23 @@ h3{
     opacity: 0.9;
 }
 .contact-form .send-btn{
-    float: right;
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    margin: 30px 0px;
+    padding: 10px 18px;
+    font-weight: 400;
+    background: transparent;
+    cursor: pointer
+}
+   
+.contact-form .send-btn:hover{
+    border: 1px solid #fff;
     background: #fff;
     color: #000;
-    border: none;
-    width: 120px;
-    height: 40px;
-    font-size: 15px;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: 0.3s;
-    transition-property: background;
-}
-.contact-form .send-btn:hover{
-    background: transparent;
-    border: 2px solid #fff;
-    color: #fff;
+    transition: 0.5s;
 }
 
 /*css for alert msgs*/
