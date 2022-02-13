@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lexend Deca', sans-serif;
+}
+.thanks{
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(255,255,255,0.12)),url(images/makati-skyline-jon-bilous.png);
+    background-position: center;
+    background-size:cover;
+    position: relative;
+}
+.say{
+    margin-left: 8%;
+    position: relative;
+    padding-top: 300px;
+}
+.say h1{
+    font-size: 50px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.say p{
+    font-size: 20px;
+    color: #fff;
+    line-height: 30px;
