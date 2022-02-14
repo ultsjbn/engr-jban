@@ -6,7 +6,7 @@
 .thanks{
     min-height: 100vh;
     width: 100%;
-    background:#000;
+    background:#fff;
     background-position: center;
     background-size:cover;
     position: relative;
@@ -18,10 +18,10 @@
 }
 .say h1{
     font-size: 50px;
-    color: #fff;
+    color: #000;
     margin-bottom: 20px;
 }
 .say p{
     font-size: 20px;
-    color: #fff;
+    color: #000;
     line-height: 30px;
