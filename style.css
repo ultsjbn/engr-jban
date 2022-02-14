@@ -291,11 +291,12 @@ h3{
     color: #fff;
     border: 2px solid #fff;
     border-radius: 5px;
+    float:right;
     padding: 3%;
     font-weight: 400;
     background: transparent;
     cursor: pointer;
-    width: 120px;
+    width: 95px;
     height: 40px;
 }
    
