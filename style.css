@@ -296,8 +296,9 @@ h3{
     background: transparent;
     cursor: pointer;
     width: 60px;
-    height: 30px;
-    padding: 7px 9px;
+    height: 20px;
+    padding-left:20px;
+    padding-right:20px;
 }
    
 .contact-form .send-btn:hover{
