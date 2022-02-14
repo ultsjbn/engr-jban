@@ -6,7 +6,7 @@
 .thanks{
     min-height: 100vh;
     width: 100%;
-    background-image: url(thanks/makati-skyline-jon-bilous.png);
+    background-image: url('thanks/makati-skyline-jon-bilous.png');
     background-position: center;
     background-size:cover;
     position: relative;
